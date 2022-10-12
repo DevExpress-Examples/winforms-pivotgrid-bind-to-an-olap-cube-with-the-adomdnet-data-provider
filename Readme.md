@@ -17,7 +17,8 @@ To bind the Pivot Grid control to an OLAP cube, follow the steps below.
     OLAPConnectionString = "Data Source=http://demos.devexpress.com/Services/OLAP/msmdpump.dll;" +
                            "Initial Catalog=Adventure Works DW Standard Edition;Cube Name=Adventure Works;"
     ``` 
-    Note that a valid connection string should provide the following parameters: Provider, Data Source, Initial Catalog, Cube Name.
+    Note that a valid connection string should include the following parameters: Provider, Data Source, Initial Catalog, and Cube Name.
+
 
 ## Files to Review
 
