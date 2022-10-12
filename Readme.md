@@ -33,6 +33,8 @@ To bind the Pivot Grid control to an OLAP cube, follow the steps below.
 
 ## More Examples 
 
+- [Pivot Grid for WinForms - How to Connect the Pivot Grid to an OLAP Data Source](https://github.com/DevExpress-Examples/winforms-pivot-grid-connect-to-an-olap-datasource)
+- [Pivot Grid for WinForms - Bind to an OLAP Cube with the XMLA Data Provider](https://github.com/DevExpress-Examples/how-to-bind-to-an-olap-cube-via-xmla-e3708)
 - [WPF Pivot Grid - Bind a PivotGrid to an OLAP Cube (.NET 6.0)](https://github.com/DevExpress-Examples/wpf-pivot-grid-connect-to-an-olap-cube-net6)
 - [ASP.NET Pivot Grid - Bind a Pivot Grid to an OLAP Cube at Design Time](https://github.com/DevExpress-Examples/aspnet-pivot-grid-getting-started-bind-a-pivot-grid-to-an-olap-cube-runtime-sample-t540972)
 
