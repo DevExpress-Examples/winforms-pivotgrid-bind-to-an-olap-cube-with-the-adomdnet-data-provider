@@ -5,7 +5,8 @@
 
 # Pivot Grid for WinForms - Bind to an OLAP Cube with the ADOMD.NET Data Provider
 
-This example demonstrates how to specify connection settings to the Adventure Works cube on the OLAP server.
+This example demonstrates how to add connection settings to the Adventure Works cube on the OLAP server.
+
 
 ![Pivot Grid](images/pivotgrid.png)
 
