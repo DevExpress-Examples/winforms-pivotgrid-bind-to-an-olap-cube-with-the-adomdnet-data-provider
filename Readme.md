@@ -8,7 +8,6 @@
 
 This example demonstrates how to add connection settings to the Adventure Works cube on the OLAP server.
 
-
 ![Pivot Grid](images/pivotgrid.png)
 
 To bind the Pivot Grid control to an OLAP cube, follow the steps below.
