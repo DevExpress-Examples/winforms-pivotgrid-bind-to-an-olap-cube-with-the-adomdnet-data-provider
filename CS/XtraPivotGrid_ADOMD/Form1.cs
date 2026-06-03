@@ -17,7 +17,7 @@ namespace XtraPivotGrid_ADOMD {
             // Specifies a string that encapsulates connection parameters 
             // required to access the desired OLAP cube.
             pivotGridControl1.OLAPConnectionString =
-                "Data Source=http://demos.devexpress.com/Services/OLAP/msmdpump.dll;" +
+                "Data Source=https://demos.devexpress.com/Services/OLAP/msmdpump.dll;" +
                 "Initial Catalog=Adventure Works DW Standard Edition;Cube Name=Adventure Works;";
         }
     }
